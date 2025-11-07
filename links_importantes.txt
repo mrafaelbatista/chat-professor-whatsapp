@@ -1,0 +1,6 @@
+ - Site de treinamentos
+https://www.analyticsvidhya.com/
+https://learn.deeplearning.ai/courses/quantization-fundamentals/lesson/psgkw/introduction
+
+- 
+https://github.com/openai/whisper
